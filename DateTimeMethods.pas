@@ -27,6 +27,7 @@ function DaysInYearRange(year1, year2: integer): integer := 0;
 function SecondsInHours(hours: integer): integer;
 begin
    result:=hours*3600;
+   //
 end;
 
 begin
