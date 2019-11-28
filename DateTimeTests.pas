@@ -68,4 +68,5 @@ begin
 	//Here be test-calls
   TestDaysInYear();
   TestIsLeapYear();
+  TestSecondsInHours();
 end.
